@@ -1,0 +1,14 @@
+.stopwatch {
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
+	background-color: chartreuse;
+  }
+  
+  button {
+	display: block;
+	margin: 10px auto;
+	background-color: bisque;
+  }
+  
